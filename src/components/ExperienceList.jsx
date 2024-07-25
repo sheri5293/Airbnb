@@ -4,7 +4,7 @@ import "../styles/ExperienceList.css";
 
 const experiences = [
   {
-    image: "/src/assets/images/katie.jpg",
+    image: "/public/assets/images/katie.jpg",
     title: "Life lessons with Katie Zaferes",
     price: 136,
     rating: 5.0,
@@ -13,7 +13,7 @@ const experiences = [
     location: "USA",
   },
   {
-    image: "/src/assets/images/wedding-photography.jpg",
+    image: "/public/assets/images/wedding-photography.jpg",
     title: "Learn wedding photography",
     price: 125,
     rating: 5.0,
@@ -22,7 +22,7 @@ const experiences = [
     location: "USA",
   },
   {
-    image: "/src/assets/images/mountain-biking.jpg",
+    image: "/public/assets/images/mountain-biking.jpg",
     title: "Group Mountain Biking",
     price: 50,
     rating: 4.8,

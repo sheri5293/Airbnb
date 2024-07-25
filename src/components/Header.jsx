@@ -5,7 +5,7 @@ const Header = () => (
   <header className="header">
     <nav className="navbar">
       <img
-        src="/src/assets/images/logo.jpg"
+        src="/public/assets/images/logo.jpg"
         alt="Airbnb Logo"
         className="navbar-logo"
       />
@@ -19,17 +19,17 @@ const Header = () => (
       leaving home.
     </p>
     <div className="experience-images">
-      <img src="/src/assets/images/katie.jpg" alt="Experience 1" />
-      <img src="/src/assets/images/katie.jpg" alt="Experience 2" />
-      <img src="/src/assets/images/mountain-biking.jpg" alt="Experience 3" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 1" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 2" />
+      <img src="/public/assets/images/mountain-biking.jpg" alt="Experience 3" />
       <img
-        src="/src/assets/images/wedding-photography.jpg"
+        src="/public/assets/images/wedding-photography.jpg"
         alt="Experience 4"
       />
-      <img src="/src/assets/images/katie.jpg" alt="Experience 5" />
-      <img src="/src/assets/images/katie.jpg" alt="Experience 6" />
-      <img src="/src/assets/images/katie.jpg" alt="Experience 7" />
-      <img src="/src/assets/images/katie.jpg" alt="Experience 8" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 5" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 6" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 7" />
+      <img src="/public/assets/images/katie.jpg" alt="Experience 8" />
     </div>
   </header>
 );
